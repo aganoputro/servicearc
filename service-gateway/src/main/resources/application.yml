@@ -1,0 +1,5 @@
+zuul:
+  routes:
+    customer:
+      path: /customer/**
+      url: http://localhost:8081/spring-zuul-customer-resource/customer
