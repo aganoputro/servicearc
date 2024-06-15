@@ -95,3 +95,4 @@ fabric.properties
 !/customer.iml
 
 !/api-gateway.iml
+!/.idea/sonarlint/
